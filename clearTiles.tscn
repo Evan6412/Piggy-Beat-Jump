@@ -1,0 +1,87 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://TheTileSet.png" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 80, 16, 16, 16 )
+
+[node name="Sprite2" type="Sprite" parent="."]
+position = Vector2( 20, 0 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 32, 64, 8, 16 )
+
+[node name="Sprite3" type="Sprite" parent="."]
+position = Vector2( -20, 0 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 72, 64, 8, 16 )
+
+[node name="Sprite4" type="Sprite" parent="."]
+position = Vector2( -24, 24 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 32, 64, 16, 16 )
+
+[node name="Sprite5" type="Sprite" parent="."]
+position = Vector2( 20, 24 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 64, 16, 16 )
+
+[node name="Sprite6" type="Sprite" parent="."]
+position = Vector2( 0, 24 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 32, 16, 16 )
+
+[node name="Sprite7" type="Sprite" parent="."]
+position = Vector2( 0, 48 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 64, 16, 16 )
+
+[node name="Sprite8" type="Sprite" parent="."]
+position = Vector2( 1.90735e-06, 72 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 48, 48, 16, 16 )
+
+[node name="Sprite9" type="Sprite" parent="."]
+position = Vector2( -24, 72 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 32, 48, 16, 16 )
+
+[node name="Sprite10" type="Sprite" parent="."]
+position = Vector2( 24, 72 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 64, 48, 16, 16 )
+
+[node name="Sprite11" type="Sprite" parent="."]
+position = Vector2( 24, 48 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 80, 48, 16, 16 )
+
+[node name="Sprite12" type="Sprite" parent="."]
+position = Vector2( -24, 48 )
+scale = Vector2( 1, 1 )
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 16, 48, 16, 16 )
