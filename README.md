@@ -33,6 +33,6 @@ I don't assume any responsibility for possible corruptions of your project. It i
 -----------------
 > This text file was created via [TextEditor Integration](https://github.com/fenix-hub/godot-engine.text-editor) inside Godot Engine's Editor.
 # Information shown for the source code
-Files that says .gd in them is the source code for them. I'm probrably gonna clean it up so that it would be more organized 
-
+-Files that says .gd in them is the source code for them. I'm probrably gonna clean it up so that it would be more organized 
+-Files with .tscn are either actual stages or levels or assets that are imported within the stages themselves 
 
