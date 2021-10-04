@@ -32,7 +32,7 @@ I don't assume any responsibility for possible corruptions of your project. It i
 
 -----------------
 > This text file was created via [TextEditor Integration](https://github.com/fenix-hub/godot-engine.text-editor) inside Godot Engine's Editor.
-
-Files that says .gd in them is the source code for them.
+# Information shown for the source code
+Files that says .gd in them is the source code for them. I'm probrably gonna clean it up so that it would be more organized 
 
 
