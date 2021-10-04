@@ -1,14 +1,3 @@
-[![version](https://img.shields.io/badge/plugin%20version-0.9.0-blue)](https://github.com/fenix-hub/godot-engine.github-integration)
-[![updates](https://img.shields.io/badge/plugin%20updates-on%20discord-purple)](https://discord.gg/JNrcucg)
-[![paypal](https://img.shields.io/badge/donations-PayPal-cyan)](https://paypal.me/NSantilio?locale.x=it_IT)
-
-Check my **[Discord](https://discord.gg/KnJGY9S)** to stay updated on this repository.  
-*(Recommended since the AssetLibrary is not automatically updated)*  
-
-This plugin is now supported in [Godot Extended Library Discord](https://discord.gg/JNrcucg), check out the [Godot Extended Library Project](https://github.com/godot-extended-libraries)!
-
-<img src="addons/github-integration/github-logo.png" align="left" width="64" height="64">
-
 # GitHub Integration
 A complete GitHub integration for your Godot Editor! Manage your project without even opening your browser.
 
@@ -44,6 +33,6 @@ I don't assume any responsibility for possible corruptions of your project. It i
 -----------------
 > This text file was created via [TextEditor Integration](https://github.com/fenix-hub/godot-engine.text-editor) inside Godot Engine's Editor.
 
-
+Files that says .gd in them is the source code for them.
 
 
